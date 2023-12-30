@@ -1,8 +1,12 @@
 {
   "name": "supravalidator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SupraValidator lib. for TS/JS",
   "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ggarciagrau/supravalidator"
+  },
   "scripts": {
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "test": "echo \"Error: no test specified\" && exit 1"
