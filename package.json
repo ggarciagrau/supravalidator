@@ -1,0 +1,16 @@
+{
+  "name": "supravalidator",
+  "version": "1.0.1",
+  "description": "SupraValidator lib. for TS/JS",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}
