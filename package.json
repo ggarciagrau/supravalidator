@@ -1,6 +1,6 @@
 {
   "name": "supravalidator",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "SupraValidator lib. for TS/JS",
   "main": "index.ts",
   "repository": {
